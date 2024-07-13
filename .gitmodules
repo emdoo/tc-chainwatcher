@@ -1,0 +1,3 @@
+[submodule "tcpython"]
+	path = tcpython
+	url = https://github.com/emdoo/tcpython
